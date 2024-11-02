@@ -1,5 +1,5 @@
 # Gerador de Carteira Stellar
-
+![Stellar Wallet Generator](https://github.com/Douglas-Rodrigues1988/projetos_dev_30k/blob/main/desafio_1/img/stellar_wallet.png)
 ![Stellar Wallet Generator](https://github.com/Douglas-Rodrigues1988/projetos_dev_30k/blob/main/desafio_1/img/stellar_wallet_generator.png)
 
 ## 📝 Descrição
